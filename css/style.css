@@ -35,6 +35,9 @@ header nav ul{
 header nav ul li a{
     text-decoration: none;
 }
+header nav ul li:hover{
+    transform: scale(1.1);
+}
 
 /* propiedades del titulo */
 .titulo{
